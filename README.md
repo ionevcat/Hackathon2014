@@ -1,10 +1,10 @@
-This is the repo for draft-ietf-doh-dns-over-https, which is a contribution to the IETF
+This is the repo for slurm_gpustat, which is a contribution to the IETF
 discussion of how to serve DNS over HTTPS. This is part of the IETF's
 DOH Working Group; see <https://datatracker.ietf.org/wg/doh/about/>
 for information about the Working Group and how to subscribe to the mailing
 list for discussion of this draft.
 
-## Contributing
+# slurm_gpustat
 
 This repository is used for managing draft contents and minor edits,
 but substantive discussions should happen on the mailing list, which is
